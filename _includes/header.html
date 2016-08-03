@@ -1,0 +1,44 @@
+<header id="navbar" role="banner" class="navbar navbar navbar-fixed-top navbar-default navbar-fixed-top">
+  <div id="brand" class="navbar-inner">
+    <div class="container">
+      <span class="site-name">
+        <a href="/" title="Home" class="brand">
+          Analytics, Informatics, and Management Systems
+        </a>
+      </span>
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">
+          Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+      </button>
+      <a href="/llnl_search" class="btn btn-navbar" id="sm-search">
+        <i class="gylphicon gylphicon-search icon-white">
+        </i>
+      </a>
+    </div>
+  </div>
+  <div class="navbar-inner" id="main-nav">
+    <div class="container">
+      <div id="sm-brand" class="hidden">
+        <a class="logo pull-left" href="/" title="Home">
+          <img src="https://www.llnl.gov/sites/all/themes/llnl_bootstrap/logo.png" alt="Home" />
+        </a>
+        <span class="site-name">
+          <a href="/" title="Home" class="brand">
+            Lawrence Livermore National Laboratory
+          </a>
+        </span>
+      </div>
+      <div class="navbar-collapse collapse">
+        {% include nav.html %}
+      </div>
+    </div>
+  </div>
+</header>
