@@ -1025,6 +1025,7 @@ div#person-bio {
 div.person-info {
   display:     inline-block;
   margin-left: 10px;
+  width: 100%;
 }
 
 div#person-details {
