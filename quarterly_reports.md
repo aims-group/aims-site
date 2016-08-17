@@ -51,6 +51,7 @@ title: Quarterly Reports
             <li><a href='media/Quarterly-Reports/Y16Q2/Bryce%20Sampson.pdf'>Bryce Sampson</a></li>
             <li><a href='media/Quarterly-Reports/Y16Q2/Anna%20Maule.pdf'>Anna Maule</a></li>
             <li><a href='media/Quarterly-Reports/Y16Q2/Ed%20Brown.pdf'>Ed Brown</a></li>
+            <li><a href='media/Quarterly-Reports/Y16Q2/Cameron%20Harr.pdf'>Cameron Harr</a></li>
             <li>Subcontracts
                 <ul>
                     <li><a href='media/Quarterly-Reports/Y16Q2/UC%20Davis.pdf'>UC Davis</a></li>
