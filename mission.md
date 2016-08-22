@@ -3,7 +3,7 @@ layout: default
 title: Mission
 ---
 
-## Analytics, Informatics, and Management Systems
+## Analytics and Informatics Management Systems
 
 Mission Statement: The objective of the Analytics, Informatics, and Management Systems (AIMS) project is to establish Lawrence Livermore National Laboratory (LLNL) as a leader and visionary architect for all aspects of data discovery and knowledge integration. LLNL has demonstrated a viable path forward and attracted key national and international collaborators and potential sponsors. The technical motivation for this program is based on the success of the Earth System Grid Federation (ESGF) and the Ultra-scale Visualization Climate Data Analysis Tools (UV-CDAT). Over the past two decades, the AIMS project has demonstrated LLNL’s ability to enable the scientific climate community to self-organize and build an information infrastructure that has revolutionized how climate modeling and intercomparison are performed. The AIMS program leads collaborations to develop an uncertainty quantification diagnostic test bed and data infrastructure for the DOE Accelerated Climate Modeling for Energy (ACME) project. Moreover, by working with many others in a global setting, the team is resolving many of the technical challenges regarding scaling and federation (e.g., authentication, sharing, location of data and processing resources, interface standards, etc.) issues that face any attempted large-scale information system. This has been accomplished by using an open systems approach that leverages the efforts of a global community.
 
