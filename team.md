@@ -15,13 +15,6 @@ title: Team
 
 <div class="person">
   <div class="person-info">
-    <div class="person-name"><a href="https://github.com/pawpepe" target="_blank">Anna Paula Maule</a></div>
-    <div class="person-position">Intern</div>
-  </div>
-</div>
-
-<div class="person">
-  <div class="person-info">
     <div class="person-name"><a href="https://github.com/doutriaux1" target="_blank">Charles Doutriaux</a></div>
     <div class="person-position">UV-CDAT Project Lead</div>
   </div>
