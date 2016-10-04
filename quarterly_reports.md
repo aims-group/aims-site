@@ -64,7 +64,7 @@ title: Quarterly Reports
     <div class="col-xs-6 col-sm-3">
             <h4>Y16 Q3</h4>
         <ul>
-            <!-- <li><a href='media/Quarterly-Reports/Y16Q3/Cameron%20Harr.pdf'>Cameron Harr</a></li> -->
+            <li><a href='media/Quarterly-Reports/Y16Q3/Cameron%20Harr.pdf'>Cameron Harr</a></li>
             <li><a href='media/Quarterly-Reports/Y16Q3/Charles%20Doutriaux.pdf'>Charles Doutriaux</a></li>
             <li><a href='media/Quarterly-Reports/Y16Q3/Dean%20Williams.pdf'>Dean Williams</a></li>
             <!-- <li><a href='media/Quarterly-Reports/Y16Q3/Denis%20Nadeau.pdf'>Denis Nadeau</a></li> -->
