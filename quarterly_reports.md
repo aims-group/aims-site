@@ -64,7 +64,7 @@ title: Quarterly Reports
     <div class="col-xs-6 col-sm-3">
             <h4>Y16 Q3</h4>
         <ul>
-            <li><a href='media/Quarterly-Reports/Y16Q3/Cameron%20Harr.pdf'>Cameron Harr</a></li>
+            <li><a href='media/Quarterly-Reports/Y16Q3/Cameron%20Har.pdf'>Cameron Harr</a></li>
             <li><a href='media/Quarterly-Reports/Y16Q3/Charles%20Doutriaux.pdf'>Charles Doutriaux</a></li>
             <li><a href='media/Quarterly-Reports/Y16Q3/Dean%20Williams.pdf'>Dean Williams</a></li>
             <li><a href='media/Quarterly-Reports/Y16Q3/Denis%20Nadeau.pdf'>Denis Nadeau</a></li>
@@ -75,7 +75,7 @@ title: Quarterly Reports
             <li><a href='media/Quarterly-Reports/Y16Q3/Ji-Woo%20Lee.pdf'>Ji-Woo Lee</a></li>
             <li><a href='media/Quarterly-Reports/Y16Q3/Matthew%20Harris.pdf'>Matthew Harris</a></li>
             <!-- <li><a href='media/Quarterly-Reports/Y16Q3/Renata%20McCoy.pdf'>Renata McCoy</a></li> -->
-            <li><a href='media/Quarterly-Reports/Y16Q3/Sam%20Fries.pdf'>Sam Fries</a></li>
+            <li><a href='media/Quarterly-Reports/Y16Q3/Samuel%20Fries.pdf'>Sam Fries</a></li>
             <li><a href='media/Quarterly-Reports/Y16Q3/Sasha%20Ames.pdf'>Sasha Ames</a></li>
             <li><a href='media/Quarterly-Reports/Y16Q3/Sterling%20Baldwin.pdf'>Sterling Baldwin</a></li>
             <li><a href='media/Quarterly-Reports/Y16Q3/Tony%20Hoang.pdf'>Tony Hoang</a></li>
