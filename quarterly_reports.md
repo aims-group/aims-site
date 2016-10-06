@@ -8,7 +8,22 @@ title: Quarterly Reports
 
 <div class="row">
     <div class="col-xs-6 col-sm-3">
-        <h4>Y16 Q1 (Oct, Nov, Dec)</h4>
+        <h4>Q1 (Oct, Nov, Dec)</h4>
+    </div>    
+        <div class="col-xs-6 col-sm-3">
+        <h4>Q2 (Jan, Feb, Mar) </h4>
+    </div> 
+        <div class="col-xs-6 col-sm-3">
+        <h4>Q3 (Apr, May, Jun)</h4>
+    </div> 
+        <div class="col-xs-6 col-sm-3">
+        <h4>Q4 (Jul, Aug, Sep)</h4>
+    </div> 
+</div>
+   
+<div id="year"><h4>2016</h4></div>
+<div class="row">
+    <div class="col-xs-6 col-sm-3">
         <ul>
             <li><a href='media/Quarterly-Reports/Y15Q4/Charles%20Doutriaux.pdf'>Charles Doutriaux</a></li>
             <li><a href='media/Quarterly-Reports/Y15Q4/Dean%20Williams.pdf'>Dean Williams</a></li>
@@ -26,7 +41,6 @@ title: Quarterly Reports
         </ul>
     </div>
     <div class="col-xs-6 col-sm-3">
-        <h4>Y16 Q2 (Jan, Feb, Mar)</h4>
         <ul>
             <li><a href='media/Quarterly-Reports/Y16Q1/Bryce%20Sampson.pdf'>Bryce Sampson</a></li>
             <li><a href='media/Quarterly-Reports/Y16Q1/Charles%20Doutriaux.pdf'>Charles Doutriaux</a></li>
@@ -52,7 +66,6 @@ title: Quarterly Reports
         </ul>
     </div>
     <div class="col-xs-6 col-sm-3">
-        <h4>Y16 Q3 (Apr, May, Jun)</h4>
         <ul>
             <li><a href='media/Quarterly-Reports/Y16Q2/Anna%20Maule.pdf'>Anna Maule</a></li>
             <li><a href='media/Quarterly-Reports/Y16Q2/Bryce%20Sampson.pdf'>Bryce Sampson</a></li>
@@ -82,7 +95,6 @@ title: Quarterly Reports
         </ul>
     </div>
     <div class="col-xs-6 col-sm-3">
-        <h4>Y16 Q4 (Jul, Aug, Sep)</h4>
         <ul>
             <li><a href='media/Quarterly-Reports/Y16Q3/Cameron%20Har.pdf'>Cameron Harr</a></li>
             <li><a href='media/Quarterly-Reports/Y16Q3/Charles%20Doutriaux.pdf'>Charles Doutriaux</a></li>
