@@ -4,9 +4,29 @@ title: Quarterly Reports
 ---
 
 <h3>Quarterly-Reports</h3>
+<h5>Fiscal Year: October - September</h5>
+
 <div class="row">
- <div class="col-xs-6 col-sm-3">
-        <h4>Y16 Q1</h4>
+    <div class="col-xs-6 col-sm-3">
+        <h4>Y16 Q1 (Oct, Nov, Dec)</h4>
+        <ul>
+            <li><a href='media/Quarterly-Reports/Y15Q4/Charles%20Doutriaux.pdf'>Charles Doutriaux</a></li>
+            <li><a href='media/Quarterly-Reports/Y15Q4/Dean%20Williams.pdf'>Dean Williams</a></li>
+            <li><a href='media/Quarterly-Reports/Y15Q4/Jeffrey%20Painter.pdf'>Jeffrey Painter</a></li>
+            <li><a href='media/Quarterly-Reports/Y15Q4/Matthew%20Harris.pdf'>Matthew Harris</a></li>
+            <li><a href='media/Quarterly-Reports/Y15Q4/Renata%20McCoy.pdf'>Renata McCoy</a></li>
+            <li><a href='media/Quarterly-Reports/Y15Q4/Sam%20Fries.pdf'>Sam Fries</a></li>
+            <li><a href='media/Quarterly-Reports/Y15Q4/Sasha%20Ames.pdf'>Sasha Ames</a></li>
+            <li>Subcontracts
+                <ul>
+                    <li><a href='media/Quarterly-Reports/Y15Q4/Argonne.pdf'>Argonne</a></li>
+                    <li><a href='media/Quarterly-Reports/Y15Q4/Kitware.pdf'>Kitware</a></li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+    <div class="col-xs-6 col-sm-3">
+        <h4>Y16 Q2 (Jan, Feb, Mar)</h4>
         <ul>
             <li><a href='media/Quarterly-Reports/Y16Q1/Bryce%20Sampson.pdf'>Bryce Sampson</a></li>
             <li><a href='media/Quarterly-Reports/Y16Q1/Charles%20Doutriaux.pdf'>Charles Doutriaux</a></li>
@@ -31,8 +51,8 @@ title: Quarterly Reports
             </li>
         </ul>
     </div>
- <div class="col-xs-6 col-sm-3">
-        <h4>Y16 Q2</h4>
+    <div class="col-xs-6 col-sm-3">
+        <h4>Y16 Q3 (Apr, May, Jun)</h4>
         <ul>
             <li><a href='media/Quarterly-Reports/Y16Q2/Anna%20Maule.pdf'>Anna Maule</a></li>
             <li><a href='media/Quarterly-Reports/Y16Q2/Bryce%20Sampson.pdf'>Bryce Sampson</a></li>
@@ -62,7 +82,7 @@ title: Quarterly Reports
         </ul>
     </div>
     <div class="col-xs-6 col-sm-3">
-            <h4>Y16 Q3</h4>
+        <h4>Y16 Q4 (Jul, Aug, Sep)</h4>
         <ul>
             <li><a href='media/Quarterly-Reports/Y16Q3/Cameron%20Har.pdf'>Cameron Harr</a></li>
             <li><a href='media/Quarterly-Reports/Y16Q3/Charles%20Doutriaux.pdf'>Charles Doutriaux</a></li>
@@ -90,28 +110,5 @@ title: Quarterly Reports
             </li>
         </ul>
     </div>
-    <div class="col-xs-6 col-sm-3"><h4>Y16 Q4</h4></div>
 </div>
-<div class="row">
-     <div class="col-xs-6 col-sm-3"><h4>Y15 Q1</h4></div>
-     <div class="col-xs-6 col-sm-3"><h4>Y15 Q2</h4></div>
-     <div class="col-xs-6 col-sm-3"><h4>Y15 Q3</h4></div>
-     <div class="col-xs-6 col-sm-3">
-        <h4>Y15 Q4</h4>
-        <ul>
-            <li><a href='media/Quarterly-Reports/Y15Q4/Charles%20Doutriaux.pdf'>Charles Doutriaux</a></li>
-            <li><a href='media/Quarterly-Reports/Y15Q4/Dean%20Williams.pdf'>Dean Williams</a></li>
-            <li><a href='media/Quarterly-Reports/Y15Q4/Jeffrey%20Painter.pdf'>Jeffrey Painter</a></li>
-            <li><a href='media/Quarterly-Reports/Y15Q4/Matthew%20Harris.pdf'>Matthew Harris</a></li>
-            <li><a href='media/Quarterly-Reports/Y15Q4/Renata%20McCoy.pdf'>Renata McCoy</a></li>
-            <li><a href='media/Quarterly-Reports/Y15Q4/Sam%20Fries.pdf'>Sam Fries</a></li>
-            <li><a href='media/Quarterly-Reports/Y15Q4/Sasha%20Ames.pdf'>Sasha Ames</a></li>
-            <li>Subcontracts
-                <ul>
-                    <li><a href='media/Quarterly-Reports/Y15Q4/Argonne.pdf'>Argonne</a></li>
-                    <li><a href='media/Quarterly-Reports/Y15Q4/Kitware.pdf'>Kitware</a></li>
-                </ul>
-            </li>
-        </ul>
-    </div>
-</div>
+
