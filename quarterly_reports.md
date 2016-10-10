@@ -115,7 +115,7 @@ title: Quarterly Reports
             <li><a href='media/Quarterly-Reports/Y16Q3/Zeshawn%20Shaheen.pdf'>Zeshawn Shaheen</a></li>
             <li>Subcontracts
                 <ul>
-                    <!-- <li><a href='media/Quarterly-Reports/Y16Q3/Argonne.pdf'>Argonne</a></li> -->
+                    <li><a href='media/Quarterly-Reports/Y16Q3/Argonne.pdf'>Argonne</a></li>
                     <li><a href='media/Quarterly-Reports/Y16Q3/Kitware.pdf'>Kitware</a></li>
                     <li><a href='media/Quarterly-Reports/Y16Q3/UC%20Davis.pdf'>UC Davis</a></li>
                 </ul>
