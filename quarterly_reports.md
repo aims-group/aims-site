@@ -105,7 +105,7 @@ title: Quarterly Reports
             <li><a href='media/Quarterly-Reports/Y16Q3/Jim%20McEnerney.pdf'>Jim McEnerney</a></li>
             <li><a href='media/Quarterly-Reports/Y16Q3/Ji-Woo%20Lee.pdf'>Ji-Woo Lee</a></li>
             <li><a href='media/Quarterly-Reports/Y16Q3/Matthew%20Harris.pdf'>Matthew Harris</a></li>
-            <!-- <li><a href='media/Quarterly-Reports/Y16Q3/Renata%20McCoy.pdf'>Renata McCoy</a></li> -->
+            <li><a href='media/Quarterly-Reports/Y16Q3/Renata%20McCoy.pdf'>Renata McCoy</a></li>
             <li><a href='media/Quarterly-Reports/Y16Q3/Samuel%20Fries.pdf'>Sam Fries</a></li>
             <li><a href='media/Quarterly-Reports/Y16Q3/Sasha%20Ames.pdf'>Sasha Ames</a></li>
             <li><a href='media/Quarterly-Reports/Y16Q3/Sterling%20Baldwin.pdf'>Sterling Baldwin</a></li>
