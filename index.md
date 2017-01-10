@@ -26,7 +26,7 @@ title: Home
     <div class="col-xs-6 col-sm-3">
         <a href="http://dream.llnl.gov" target="_blank">
             <h4 class="muted">DREAM</h4>
-            <img src="media/images/dream-logo.png" style="min-height: 210px" max-width="286" class="thumbnail">
+            <img src="media/images/DREAM-Logo.png" style="min-height: 210px" max-width="286" class="thumbnail">
         </a>
     </div> 
 </div>
