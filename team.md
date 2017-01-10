@@ -22,6 +22,13 @@ title: Team
 
 <div class="person">
   <div class="person-info">
+    <div class="person-name"><a href="https://github.com/chengzhuzhang" target="_blank">Chengzhu (Jill) Zhang</a></div>
+    <div class="person-position">Computer Scientist / Mathematical Programmer</div>
+  </div>
+</div>
+
+<div class="person">
+  <div class="person-info">
     <div class="person-name"><a href="https://github.com/williams13" target="_blank">Dean Williams</a></div>
     <div class="person-position">Program Lead</div>
   </div>
