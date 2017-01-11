@@ -35,7 +35,7 @@ title: Quarterly Reports
             <li><a href='media/Quarterly-Reports/Y16Q4/Jeffrey%20Painter.pdf'>Jeffrey Painter</a></li>
             <li><a href='media/Quarterly-Reports/Y16Q4/Jerry%20Potter.pdf'>Jerry Potter</a></li>
             <li><a href='media/Quarterly-Reports/Y16Q4/Jim%20McEnerney.pdf'>Jim McEnerney</a></li>
-            <li><a href='media/Quarterly-Reports/Y16Q4/Ji-Woo%20Lee.pdf'>Ji-Woo Lee</a></li>
+            <li><a href='media/Quarterly-Reports/Y16Q4/Jiwoo%20Lee.pdf'>Ji-Woo Lee</a></li>
             <li><a href='media/Quarterly-Reports/Y16Q4/Matthew%20Harris.pdf'>Matthew Harris</a></li>
             <li><a href='media/Quarterly-Reports/Y16Q4/Renata%20McCoy.pdf'>Renata McCoy</a></li>
             <li><a href='media/Quarterly-Reports/Y16Q4/Samuel%20Fries.pdf'>Sam Fries</a></li>
