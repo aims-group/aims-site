@@ -44,7 +44,7 @@ title: Team
 <div class="person">
   <div class="person-info">
     <div class="person-name"><a href="https://github.com/James-Crean" target="_blank">James Crean</a></div>
-    <div class="person-position">On Leave</div>
+    <div class="person-position">Computer Scientist / Mathematical Programmer</div>
   </div>
 </div>
 
