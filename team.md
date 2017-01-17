@@ -43,13 +43,6 @@ title: Team
 
 <div class="person">
   <div class="person-info">
-    <div class="person-name"><a href="https://github.com/embrown" target="_blank">Edward Brown</a></div>
-    <div class="person-position">Intern</div>
-  </div>
-</div>
-
-<div class="person">
-  <div class="person-info">
     <div class="person-name"><a href="https://github.com/James-Crean" target="_blank">James Crean</a></div>
     <div class="person-position">On Leave</div>
   </div>
@@ -108,6 +101,13 @@ title: Team
   <div class="person-info">
     <div class="person-name"><a href="https://github.com/chaosphere2112" target="_blank">Sam Fries</a></div>
     <div class="person-position">Computer Scientist / Mathematical Programmer</div>
+  </div>
+</div>
+
+<div class="person">
+  <div class="person-info">
+    <div class="person-name"><a href="https://github.com/#" target="_blank">Sandi Samuel</a></div>
+    <div class="person-position">Intern</div>
   </div>
 </div>
 
