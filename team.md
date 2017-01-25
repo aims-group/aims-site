@@ -141,6 +141,13 @@ title: Team
 
 <div class="person">
   <div class="person-info">
+    <div class="person-name"><a href="https://github.com/" target="_blank">Tanya Reshel</a></div>
+    <div class="person-position">Project Administrator</div>
+  </div>
+</div>
+
+<div class="person">
+  <div class="person-info">
     <div class="person-name"><a href="https://github.com/" target="_blank">Tony Hoang</a></div>
     <div class="person-position">System Administrator</div>
   </div>
