@@ -85,7 +85,7 @@ title: Team
 
 <div class="person">
   <div class="person-info">
-    <div class="person-name"><a href="https://github.com/#" target="_blank">Dendra Kulvenhoven</a></div>
+    <div class="person-name"><a href="https://github.com/#" target="_blank">Kendra Kulvenhoven</a></div>
     <div class="person-position">Intern</div>
   </div>
 </div>
