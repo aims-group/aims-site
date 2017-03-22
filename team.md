@@ -106,13 +106,6 @@ title: Team
 
 <div class="person">
   <div class="person-info">
-    <div class="person-name"><a href="https://github.com/chaosphere2112" target="_blank">Sam Fries</a></div>
-    <div class="person-position">Computer Scientist / Mathematical Programmer</div>
-  </div>
-</div>
-
-<div class="person">
-  <div class="person-info">
     <div class="person-name"><a href="https://github.com/#" target="_blank">Sandi Samuel</a></div>
     <div class="person-position">Intern</div>
   </div>
