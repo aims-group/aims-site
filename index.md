@@ -38,7 +38,7 @@ title: Home
         </a>
     </div>
     <div class="col-xs-6 col-sm-3">
-        <a href="http://pcmdi.llnl.gov/home" target="_blank">
+        <a href="http://pcmdi.llnl.gov" target="_blank">
             <h4 class="muted">PCMDI</h4>
             <img src="media/images/pcmdi-logo.png" style="min-height: 210px" max-width="286" class="thumbnail">
         </a>
