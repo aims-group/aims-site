@@ -173,7 +173,3 @@ title: Team
     <div class="person-position">Only visable from the LLNL network</div>
   </div>
 </div>
-
-<div>
-    <img src="media/images/AIMS-group.jpg" style="width: 80%"/>
-</div>
