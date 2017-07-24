@@ -113,13 +113,6 @@ title: Team
 
 <div class="person">
   <div class="person-info">
-    <div class="person-name"><a href="https://github.com/#" target="_blank">Sandi Samuel</a></div>
-    <div class="person-position">Intern</div>
-  </div>
-</div>
-
-<div class="person">
-  <div class="person-info">
     <div class="person-name"><a href="https://github.com/sashakames" target="_blank">Dr. Sasha Ames</a></div>
     <div class="person-position">ESGF Project Lead</div>
   </div>
