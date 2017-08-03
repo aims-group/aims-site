@@ -18,13 +18,13 @@ title: Home
         </a>
     </div>
     <div class="col-xs-6 col-sm-3">
-        <a href="http://cdp.llnl.gov" target="_blank">
+        <a href="https://cdp.llnl.gov" target="_blank">
             <h4 class="muted">CDP</h4>
             <img src="media/images/cdp-logo.png" style="min-height: 210px" max-width="286" class="thumbnail">
         </a>
     </div>
     <div class="col-xs-6 col-sm-3">
-        <a href="http://dream.llnl.gov" target="_blank">
+        <a href="https://dream.llnl.gov" target="_blank">
             <h4 class="muted">DREAM</h4>
             <img src="media/images/DREAM-Logo.png" style="min-height: 210px" max-width="286" class="thumbnail">
         </a>
@@ -38,13 +38,13 @@ title: Home
         </a>
     </div>
     <div class="col-xs-6 col-sm-3">
-        <a href="http://pcmdi.llnl.gov" target="_blank">
+        <a href="https://pcmdi.llnl.gov" target="_blank">
             <h4 class="muted">PCMDI</h4>
             <img src="media/images/pcmdi-logo.png" style="min-height: 210px" max-width="286" class="thumbnail">
         </a>
     </div>
     <div class="col-xs-6 col-sm-3">
-        <a href="http://uvcdat.llnl.gov" target="_blank">
+        <a href="https://uvcdat.llnl.gov" target="_blank">
             <h4 class="muted">UV-CDAT</h4>
             <img src="media/images/uvcdat-logo-small.png" style="min-height: 210px" max-width="286" class="thumbnail">
         </a>
