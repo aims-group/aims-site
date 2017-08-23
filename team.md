@@ -43,21 +43,7 @@ title: Team
 
 <div class="person">
   <div class="person-info">
-    <div class="person-name"><a href="https://github.com/eliakindelrosario" target="_blank">Eliakin Del Rosario</a></div>
-    <div class="person-position">Intern</div>
-  </div>
-</div>
-
-<div class="person">
-  <div class="person-info">
     <div class="person-name"><a href="https://github.com/James-Crean" target="_blank">James Crean</a></div>
-    <div class="person-position">Computer Scientist / Mathematical Programmer</div>
-  </div>
-</div>
-
-<div class="person">
-  <div class="person-info">
-    <div class="person-name"><a href="https://github.com/mcenerney1" target="_blank">Dr. James McEnerney</a></div>
     <div class="person-position">Computer Scientist / Mathematical Programmer</div>
   </div>
 </div>
@@ -87,13 +73,6 @@ title: Team
   <div class="person-info">
     <div class="person-name"><a href="https://github.com/lee1043" target="_blank">Dr. Ji-Woo Lee</a></div>
     <div class="person-position">Post Doc</div>
-  </div>
-</div>
-
-<div class="person">
-  <div class="person-info">
-    <div class="person-name"><a href="https://github.com/#" target="_blank">Kendra Kuivenhoven</a></div>
-    <div class="person-position">Intern</div>
   </div>
 </div>
 
