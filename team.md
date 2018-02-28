@@ -16,7 +16,7 @@ title: Team
 <div class="person">
   <div class="person-info">
     <div class="person-name"><a href="https://github.com/doutriaux1" target="_blank">Charles Doutriaux</a></div>
-    <div class="person-position">UV-CDAT Project Lead</div>
+    <div class="person-position">CDAT, ESGF-CWT and PCMDI Metrics Project Lead<UV-/div>
   </div>
 </div>
 
