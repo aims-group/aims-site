@@ -13,8 +13,8 @@ title: Home
     </div>
     <div class="col-xs-6 col-sm-3">
         <a href="http://climatemodeling.science.energy.gov/acme" target="_blank">
-            <h4 class="muted">ACME</h4>
-            <img src="media/images/acme-logo.png" style="min-height: 210px" max-width="286" class="thumbnail">
+            <h4 class="muted">E3SM</h4>
+            <img src="media/images/E3SM-logo.png" style="min-height: 210px" max-width="286" class="thumbnail">
         </a>
     </div>
     <div class="col-xs-6 col-sm-3">
@@ -45,8 +45,8 @@ title: Home
     </div>
     <div class="col-xs-6 col-sm-3">
         <a href="https://uvcdat.llnl.gov" target="_blank">
-            <h4 class="muted">UV-CDAT</h4>
-            <img src="media/images/uvcdat-logo-small.png" style="min-height: 210px" max-width="286" class="thumbnail">
+            <h4 class="muted">CDAT</h4>
+            <img src="media/images/CDAT-logo.png" style="min-height: 210px" max-width="286" class="thumbnail">
         </a>
     </div>
  </div>
