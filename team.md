@@ -78,7 +78,7 @@ title: Team
 
 <div class="person">
   <div class="person-info">
-    <div class="person-name"><a href="#" target="_blank">Lina Muryanto</a></div>
+    <div class="person-name"><a href="https://github.com/muryanto1" target="_blank">Lina Muryanto</a></div>
     <div class="person-position">Computer Scientist / Mathematical Programmer</div>
   </div>
 </div>
