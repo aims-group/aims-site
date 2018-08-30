@@ -85,6 +85,13 @@ title: Team
 
 <div class="person">
   <div class="person-info">
+    <div class="person-name"><a href="https://github.com/nathanlcarlson" target="_blank">Nathan Carlson</a></div>
+    <div class="person-position">Software Developer</div>
+  </div>
+</div>
+
+<div class="person">
+  <div class="person-info">
     <div class="person-name"><a href="https://github.com/mccoy20" target="_blank">Dr. Renata McCoy</a></div>
     <div class="person-position">E3SM Project Lead</div>
   </div>
