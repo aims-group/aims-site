@@ -15,6 +15,13 @@ title: Team
 
 <div class="person">
   <div class="person-info">
+    <div class="person-name"><a href="https://github.com/downiec" target="_blank">Carlos Downie</a></div>
+    <div class="person-position">Computer Scientist</div>
+  </div>
+</div>
+
+<div class="person">
+  <div class="person-info">
     <div class="person-name"><a href="https://github.com/doutriaux1" target="_blank">Charles Doutriaux</a></div>
     <div class="person-position">CDAT, ESGF-CWT and PCMDI Metrics Project Lead</div>
   </div>
@@ -43,8 +50,8 @@ title: Team
 
 <div class="person">
   <div class="person-info">
-    <div class="person-name"><a href="https://github.com/James-Crean" target="_blank">James Crean</a></div>
-    <div class="person-position">Computer Scientist / Mathematical Programmer</div>
+    <div class="person-name"><a href="https://github.com/davis278" target="_blank">Holly Davis</a></div>
+    <div class="person-position">Computer Scientist / Science Writer</div>
   </div>
 </div>
 
@@ -85,8 +92,8 @@ title: Team
 
 <div class="person">
   <div class="person-info">
-    <div class="person-name"><a href="https://github.com/mattben" target="_blank">Matthew Harris</a></div>
-    <div class="person-position">Computer Scientist / Mathematical Programmer</div>
+    <div class="person-name"><a href="https://github.com/nathanlcarlson" target="_blank">Nathan Carlson</a></div>
+    <div class="person-position">Software Developer</div>
   </div>
 </div>
 
