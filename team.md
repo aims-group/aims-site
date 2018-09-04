@@ -50,6 +50,13 @@ title: Team
 
 <div class="person">
   <div class="person-info">
+    <div class="person-name"><a href="https://github.com/davis278" target="_blank">Holly Davis</a></div>
+    <div class="person-position">Computer Scientist / Science Writer</div>
+  </div>
+</div>
+
+<div class="person">
+  <div class="person-info">
     <div class="person-name"><a href="https://github.com/jasonb5" target="_blank">Jason Boutte</a></div>
     <div class="person-position">Computer Scientist / Mathematical Programmer</div>
   </div>
