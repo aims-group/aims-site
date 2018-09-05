@@ -36,6 +36,13 @@ title: Team
 
 <div class="person">
   <div class="person-info">
+    <div class="person-name"><a href="https://github.com/mauzey1" target="_blank">Chris Mauzey</a></div>
+    <div class="person-position">Computer Scientist</div>
+  </div>
+</div>
+
+<div class="person">
+  <div class="person-info">
     <div class="person-name"><a href="https://github.com/williams13" target="_blank">Dean Williams</a></div>
     <div class="person-position">Program Lead</div>
   </div>
