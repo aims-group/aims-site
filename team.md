@@ -155,13 +155,6 @@ title: Team
 
 <div class="person">
   <div class="person-info">
-    <div class="person-name"><a href="https://github.com/zshaheen" target="_blank">Zeshawn Shaheen</a></div>
-    <div class="person-position">Computer Scientist / Mathematical Programmer</div>
-  </div>
-</div>
-
-<div class="person">
-  <div class="person-info">
     <div class="person-name"><a href="http://aims-group.llnl.gov" target="_blank">Group Info</a></div>
     <div class="person-position">Only visable from the LLNL network</div>
   </div>
