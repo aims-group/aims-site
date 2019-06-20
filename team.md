@@ -120,13 +120,6 @@ title: Team
 
 <div class="person">
   <div class="person-info">
-    <div class="person-name"><a href="https://github.com/#" target="_blank"> Dr. Sookyung Kim</a></div>
-    <div class="person-position">Post Doc</div>
-  </div>
-</div>
-
-<div class="person">
-  <div class="person-info">
     <div class="person-name"><a href="https://github.com/sterlingbaldwin" target="_blank">Sterling Baldwin</a></div>
     <div class="person-position">Computer Scientist / Mathematical Programmer</div>
   </div>
@@ -149,13 +142,6 @@ title: Team
 <div class="person">
   <div class="person-info">
     <div class="person-name"><a href="https://github.com/WIlliam-Hill" target="_blank">William Hill</a></div>
-    <div class="person-position">Computer Scientist / Mathematical Programmer</div>
-  </div>
-</div>
-
-<div class="person">
-  <div class="person-info">
-    <div class="person-name"><a href="https://github.com/zshaheen" target="_blank">Zeshawn Shaheen</a></div>
     <div class="person-position">Computer Scientist / Mathematical Programmer</div>
   </div>
 </div>
