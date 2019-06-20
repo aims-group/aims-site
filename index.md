@@ -12,7 +12,7 @@ title: Home
         </a>
     </div>
     <div class="col-xs-6 col-sm-3">
-        <a href="#" target="_blank">
+        <a href="https://e3sm.org" target="_blank">
             <h4 class="muted">E3SM</h4>
             <img src="media/images/E3SM-logo.png" style="min-height: 210px" max-width="286" class="thumbnail">
         </a>
