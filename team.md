@@ -22,13 +22,6 @@ title: Team
 
 <div class="person">
   <div class="person-info">
-    <div class="person-name"><a href="https://github.com/doutriaux1" target="_blank">Charles Doutriaux</a></div>
-    <div class="person-position">CDAT, ESGF-CWT and PCMDI Metrics Project Lead</div>
-  </div>
-</div>
-
-<div class="person">
-  <div class="person-info">
     <div class="person-name"><a href="https://github.com/chengzhuzhang" target="_blank">Chengzhu (Jill) Zhang</a></div>
     <div class="person-position">Computer Scientist / Mathematical Programmer</div>
   </div>
@@ -50,13 +43,6 @@ title: Team
 
 <div class="person">
   <div class="person-info">
-    <div class="person-name"><a href="https://github.com/dnadeau4" target="_blank">Denis Nadeau</a></div>
-    <div class="person-position">Computer Scientist / Mathematical Programmer</div>
-  </div>
-</div>
-
-<div class="person">
-  <div class="person-info">
     <div class="person-name"><a href="https://github.com/davis278" target="_blank">Holly Davis</a></div>
     <div class="person-position">Computer Scientist / Science Writer</div>
   </div>
@@ -72,13 +58,6 @@ title: Team
 <div class="person">
   <div class="person-info">
     <div class="person-name"><a href="https://github.com/painter1" target="_blank">Dr. Jeffrey Painter</a></div>
-    <div class="person-position">Contractor/Scientist</div>
-  </div>
-</div>
-
-<div class="person">
-  <div class="person-info">
-    <div class="person-name"><a href="https://github.com/glpotter" target="_blank">Dr. Jerry Potter</a></div>
     <div class="person-position">Contractor/Scientist</div>
   </div>
 </div>
@@ -113,6 +92,13 @@ title: Team
 
 <div class="person">
   <div class="person-info">
+    <div class="person-name"><a href="https://github.com/forsyth2" target="_blank">Ryan Forsyth</a></div>
+    <div class="person-position">Software Developer</div>
+  </div>
+</div>
+
+<div class="person">
+  <div class="person-info">
     <div class="person-name"><a href="https://people.llnl.gov/ames4" target="_blank">Dr. Sasha Ames</a></div>
     <div class="person-position">ESGF Project Lead</div>
   </div>
@@ -136,13 +122,6 @@ title: Team
   <div class="person-info">
     <div class="person-name"><a href="https://github.com/" target="_blank">Tony Hoang</a></div>
     <div class="person-position">System Administrator</div>
-  </div>
-</div>
-
-<div class="person">
-  <div class="person-info">
-    <div class="person-name"><a href="https://github.com/WIlliam-Hill" target="_blank">William Hill</a></div>
-    <div class="person-position">Computer Scientist / Mathematical Programmer</div>
   </div>
 </div>
 
