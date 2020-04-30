@@ -8,7 +8,7 @@ title: Team
 
 <div class="person">
   <div class="person-info">
-    <div class="person-name"><a href="https://github.com/PatrikD" target="_blank">Angela Jefferson</a></div>
+    <div class="person-name"><a target="_blank">Angela Jefferson</a></div>
     <div class="person-position">Program Administrator</div>
   </div>
 </div>
