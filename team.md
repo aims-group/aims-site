@@ -36,13 +36,6 @@ title: Team
 
 <div class="person">
   <div class="person-info">
-    <div class="person-name"><a href="https://github.com/williams13" target="_blank">Dean Williams</a></div>
-    <div class="person-position">Program Lead</div>
-  </div>
-</div>
-
-<div class="person">
-  <div class="person-info">
     <div class="person-name"><a href="https://github.com/davis278" target="_blank">Holly Davis</a></div>
     <div class="person-position">Computer Scientist / Science Writer</div>
   </div>
@@ -122,13 +115,6 @@ title: Team
   <div class="person-info">
     <div class="person-name"><a href="https://github.com/" target="_blank">Tony Hoang</a></div>
     <div class="person-position">System Administrator</div>
-  </div>
-</div>
-
-<div class="person">
-  <div class="person-info">
-    <div class="person-name"><a href="https://github.com/WIlliam-Hill" target="_blank">William Hill</a></div>
-    <div class="person-position">Computer Scientist / Mathematical Programmer</div>
   </div>
 </div>
 
